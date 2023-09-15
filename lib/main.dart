@@ -1,3 +1,4 @@
+import 'package:card_exchange/page/navigation_bar/navigation_bar_page.dart';
 import 'package:card_exchange/page/top_page.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(),
-      home: const TopPage(),
+      home: const NavigationBarPage(),
     );
   }
 }
