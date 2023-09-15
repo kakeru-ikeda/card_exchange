@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "705663978308",
+    "project_id": "card-exchange-cd112",
+    "storage_bucket": "card-exchange-cd112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705663978308:android:ad8007acbd714870252511",
+        "android_client_info": {
+          "package_name": "jp.ac.hal.card_exchange.card_exchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705663978308-6hr9j5401vtldq44t668okues0vvkfj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoUoOerEUZk_HQYdrTA8CKom__TsKm-bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705663978308-6hr9j5401vtldq44t668okues0vvkfj0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "705663978308-600ucn1vpamur6r349geaam2o76cr215.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.ac.hal.cardexchange.cardExchange.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
